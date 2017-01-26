@@ -1,1 +1,1 @@
-* [clojure lanterna](https://martin-s-weber.github.io/clojure-lanterna)
+* [clojure lanterna](https://multimud.github.io/clojure-lanterna)
